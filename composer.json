@@ -1,0 +1,21 @@
+{
+    "name": "e-terin/myfunc",
+    "description": "Desc of my package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeniy Terin",
+            "email": "web@derin.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "league/climate": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "E-terin\\Myfunc\\": "src/"
+        }
+    }
+}
