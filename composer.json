@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "E-terin\\Myfunc\\": "src/"
+            "Eterin\\Myfunc\\": "src/"
         }
     }
 }
