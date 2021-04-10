@@ -1,6 +1,6 @@
 <?php
 
-namespace E-terin\Myfunc;
+namespace Eterin\Myfunc;
 
 class Myfunc
 {
